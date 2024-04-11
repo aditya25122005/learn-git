@@ -1,2 +1,4 @@
 # learn-git
-author-Aditya Maheshwari
+my name is Aditya
+<br>
+Author-Aditya Maheshwari
